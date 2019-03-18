@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kwura/node-fun/issues"
   },
-  "homepage": "https://github.com/kwura/node-fun#readme"
+  "homepage": "https://github.com/kwura/node-fun#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
